@@ -2,7 +2,7 @@
 
 <h3 align="center"> Architect in a process of change and recycling.</h3>
 
-<p>Frontend developer learner and design passionate raise in a small town in Ourense, Galicia</p>
+<p>Frontend developer learner and design passionate, raised in a small town in Ourense, Galicia</p>
 
 - 🌱 Reinventing myself in the **tech** world
 
