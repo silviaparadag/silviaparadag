@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm Silvia</h2>
+<h2 align="center">Hi 👋🏻!</h2>
 
-<h3 align="center"> Architect in a process of change and recycling.</h3>
+<h3 align="center"> <em> I'm Silvia, architect in a process of change and recycling </em></h3>
 
 <p>Frontend developer learner and design passionate, raised in a small town in Ourense, Galicia</p>
 
