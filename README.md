@@ -6,7 +6,7 @@
 
 - 🌱 Reinventing myself in the **tech** world
 
-- 💬 Ask me about **design** & **restaurants**
+- 💬 Ask me about **design** & **restaurants** & **specitalty coffee**
 
 - 📫 How to reach me **silviaparadag@yahoo.es**
 
