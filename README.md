@@ -2,7 +2,7 @@
 
 <h3 align="center" style="color:black; text-decoration: none;"> <em> I'm Silvia, architect in a process of change and recycling </em></h3>
 
-<p>Frontend developer learner and design passionate, raised in a small town in Ourense, Galicia</p>
+<p>Jr. Frontend developer. Design & travel passionate, raised in a small town in Ourense, Galicia</p>
 
 - 🌱 Reinventing myself in the **tech** world
 
