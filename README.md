@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋🏻!</h2>
+<h2 align="center" style="color:black; text-decoration: none;" >Hi 👋🏻!</h2>
 
-<h3 align="center"> <em> I'm Silvia, architect in a process of change and recycling </em></h3>
+<h3 align="center" style="color:black; text-decoration: none;"> <em> I'm Silvia, architect in a process of change and recycling </em></h3>
 
 <p>Frontend developer learner and design passionate, raised in a small town in Ourense, Galicia</p>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<h4 align="left">Tech & tools stack:</h4>
+<h4 align="left" style="color:black; text-decoration: none;" >Tech & tools stack:</h4>
 <p align="left">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -29,7 +29,7 @@
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt=“Slack” width="40" height="40"/></a><a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="./src/notion-logo.png" alt="notion" width="40" height="40"/> </a> <a href="https://miro.com/index" target="_blank" rel="noreferrer"> <img src="./src/miro.png" alt="notion" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 <br>
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left" style="color:black; text-decoration: none;">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/silviaparada" target="blank"><img align="center" src="./src/logo-x-2023.png" alt="silviaparada" height="25" width="25" /></a>
 <a href="https://linkedin.com/in/silvia-parada-905b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-parada-905b246" height="30" width="40" /></a>
