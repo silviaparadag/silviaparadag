@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **silviaparadag@yahoo.es**
 
-- 📄 Know about my experiences in <a  href="https://www.linkedin.com/in/silviaparadag/](https://www.linkedin.com/in/silviaparadag">my LinkedIn Profile </a>
+- 📄 Know about my experiences in <a href="https://www.linkedin.com/in/silviaparadag/](https://www.linkedin.com/in/silviaparadag"> my LinkedIn Profile</a>
 
 <br>
 
