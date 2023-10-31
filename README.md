@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **silviaparadag@yahoo.es**
 
-- 📄 Know about my experiences in <a href="https://www.linkedin.com/in/silviaparadag/](https://www.linkedin.com/in/silviaparadag"> my LinkedIn Profile</a>
+- 📄 Know about my experiences in <a href="https://www.linkedin.com/in/silviaparadag/"> my LinkedIn Profile</a>
 
 <br>
 
@@ -32,7 +32,7 @@
 <h4 align="left" style="color:black; text-decoration: none;">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/silviaparada" target="blank"><img align="center" src="./src/logo-x-2023.png" alt="silviaparada" height="25" width="25" /></a>
-<a href="https://linkedin.com/in/silvia-parada-905b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvia-parada-905b246" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/silviaparadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silviaparadag" height="30" width="40" /></a>
 <a href="https://instagram.com/silviaparadag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="silviaparadag" height="30" width="40" /></a>
 </p>
 
