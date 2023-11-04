@@ -1,8 +1,9 @@
 <h2 align="center" style="color:black; text-decoration: none;" >Hi 👋🏻!</h2>
 
-<h3 align="center" style="color:black; text-decoration: none;"> <em> I'm Silvia, architect in a process of change and recycling </em></h3>
+<h3 align="center" style="color:black; text-decoration: none;"> <em> I'm Silvia, Jr. frontend developer and architect. </em></h3>
 
-<p>Jr. Frontend developer. Design & travel passionate, raised in a small town in Ourense, Galicia</p>
+<p> Looking for new challenges in the IT sector as web developer where I bring my experience of 15+ years in management and design.
+ </p>
 
 - 🌱 Reinventing myself in the **tech** world
 
