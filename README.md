@@ -13,6 +13,10 @@
 
 - 📄 Know about my experiences in <a href="https://www.linkedin.com/in/silviaparadag/"> my LinkedIn Profile</a>
 
+- 📄 Discover  <a href="https://silviaparadag.github.io/portfolio/"> my porfolio</a> <span  style="color:gray; font-size:6px;">*(under construction)*</span> 
+
+
+
 <br>
 
 <h4 align="left" style="color:black; text-decoration: none;" >Tech & tools stack:</h4>
